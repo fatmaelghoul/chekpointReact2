@@ -1,0 +1,10 @@
+#players{
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+display: grid;
+grid-template: 1fr / repeat(5, 1fr);
+padding: 10px;
+margin: 10px;;
+}
